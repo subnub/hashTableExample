@@ -10,5 +10,6 @@
 - Add values with keys, value pair
 - Remove Values
 - Search For Values
+- Handles collisions
 - Rehash
 - Calculates load factor
